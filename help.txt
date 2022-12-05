@@ -1,0 +1,15 @@
+--------------------------------HELP--------------------------------------
+To MOVE, enter "go" and the desired direction.
+Valid directions are "up", "down", "left", "right", and "back"
+To SEARCH a ROOM, enter "search room".
+To PICK up an ITEM, enter "pick" and the desired item.
+To USE an ITEM, enter "use" and the desired item.
+To RETURN an ITEM, enter "return" and the desired item.
+To DROP an ITEM, enter "drop" and the desired item.
+To VIEW your INVENTORY, enter "view inventory".
+To VIEW HELP, enter "view help".
+To VIEW the DESCRIPTION of current room, enter "view description".
+TO SAVE the GAME, enter "save game".
+To QUIT the GAME, enter "quit game".
+
+DISCLAIMER: Be wise when using your items since it is taken out of your inventory, some items can only be used once. Also, some rooms are locked. You might need to solve a riddle, have a specific item, or a code. Good luck getting out.
